@@ -1,0 +1,29 @@
+body {
+  background-color: lime;
+}
+
+
+.subheadings {
+  color: blue;
+  font-family: monospace;
+}
+
+div {
+  background-color: white;
+
+  width: 800px;
+  padding: 2%;
+}
+
+p {
+  font-family: monospace;
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 50px;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 100px;
